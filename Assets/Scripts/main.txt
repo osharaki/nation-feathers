@@ -1,0 +1,5 @@
+/*! \mainpage Documentation
+ *
+ * This is the Nation Feathers documentation. Use the drop down menu "Classes" above to navigate.
+ *
+ */
