@@ -1,6 +1,7 @@
 # Nation Feathers
-Nation Feathers is a proceduraly generated, top-down, flying game for
-Android.
+Nation Feathers is a proceduraly generated, top-down, flying game for Android. (<em>Built in 2017</em>)
+
+![A screenshot of the game](./screenshot.png)
 
 The game was developed in Unity using C# as a project for an undergraduate game programming class in 2017.
 More on the technical details is provided in [Nation_Feathers_Beleg.pdf](./Nation_Feathers_Beleg.pdf) (German).
