@@ -7,8 +7,8 @@ The game was developed in Unity using C# as a project for an undergraduate game 
 More on the technical details is provided in [Nation_Feathers_Beleg.pdf](./Nation_Feathers_Beleg.pdf) (German).
 
 ## Plot
-You are a hungry, aquatic bird :bird: on a mission: to eat as many of the squid :octopus: floating on the 
-water :ocean: as you can before you starve.
+You are a hungry, aquatic :bird: on a mission: to eat as many of the :octopus: floating on the 
+:ocean: as you can before you starve.
 
 But be careful! The water level is dropping rapidly, and with it the floating 
 squid. Navigate your way through the swampy terrain and avoid bumping into the 
