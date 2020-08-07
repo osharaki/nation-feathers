@@ -1,5 +1,5 @@
-# Nation Feathers
-Nation Feathers is a proceduraly generated, top-down, flying game for Android. (<em>Built in 2017</em>)
+# Nation Feathers (<em>Built in 2017</em>)
+Nation Feathers is a proceduraly generated, top-down, flying game for Android.
 
 ![A screenshot of the game](./screenshot.png)
 
